@@ -18,7 +18,7 @@ It's meant to be a simple, minimal tool for learning and experimenting with sent
 - Labels the article as Positive, Negative, or Neutral
 - Optionally saves everything to a local `.txt` file
 
-c
+
 
 ## How to use it
 
@@ -30,13 +30,8 @@ c
 ```bash
 python analyze_article.py
 
-Absolutely — here's a more **natural, human-written version** of the `README.md`, written the way a developer might craft it manually for GitHub. It keeps the content helpful but avoids overly polished or robotic phrasing.
 
----
 
-### ✅ Human-Written Style `README.md`
-
-````markdown
 # Simple Sentiment Text Analyzer 📰📊
 
 This is a small Python script I built to analyze the sentiment of online news articles. It uses the `newspaper3k` library to fetch and summarize the article, and then uses `TextBlob` to run a basic sentiment analysis.
